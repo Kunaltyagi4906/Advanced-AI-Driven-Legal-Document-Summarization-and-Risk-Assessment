@@ -144,10 +144,11 @@ Final Output to User
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/legal-ai-system.git
+git clone https://github.com/Kunaltyagi4906/Advanced-AI-Driven-Legal-Document-Summarization-and-Risk-Assessment.git
+
 
 # Navigate to project
-cd legal-ai-system
+cd Advanced-AI-Driven-Legal-Document-Summarization-and-Risk-Assessment
 
 # Install dependencies
 pip install -r requirements.txt
